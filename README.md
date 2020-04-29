@@ -13,4 +13,7 @@
  - Glossy Reflection
  - For more info, check out the raytracing report
  
+## Rendering images
+ - [Click Here to view](https://github.com/emilebui/Raytracing-Project/tree/master/images)
+ 
 ## Feels free to check it out
